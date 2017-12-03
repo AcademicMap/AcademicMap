@@ -1,1 +1,1 @@
-C:\AcademicMap\AcademicMap\AcademicMap.jsproj;neutral
+C:\Users\omero\Documents\AcademicMap\AcademicMap\AcademicMap\AcademicMap.jsproj;neutral

@@ -14,48 +14,52 @@
     <RegisteredVersion>1.0.0.0</RegisteredVersion>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="C:\AcademicMap\AcademicMap\bin\Debug\AppxManifest.xml">
+    <AppXManifest Include="C:\Users\omero\Documents\AcademicMap\AcademicMap\AcademicMap\bin\Debug\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2017-12-03T15:34:49.352</Modified>
+      <Modified>2017-12-03T15:45:18.784</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\AcademicMap\AcademicMap\default.html">
-      <PackagePath>default.html</PackagePath>
-      <Modified>2017-12-03T15:34:43.090</Modified>
+    <AppxPackagedFile Include="C:\Users\omero\Documents\AcademicMap\AcademicMap\AcademicMap\css\SearchBox.css">
+      <PackagePath>css\SearchBox.css</PackagePath>
+      <Modified>2017-12-03T15:45:16.695</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\AcademicMap\AcademicMap\images\logo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\omero\Documents\AcademicMap\AcademicMap\AcademicMap\css\default.css">
+      <PackagePath>css\default.css</PackagePath>
+      <Modified>2013-07-21T18:19:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\omero\Documents\AcademicMap\AcademicMap\AcademicMap\default.html">
+      <PackagePath>default.html</PackagePath>
+      <Modified>2017-12-03T15:44:52.396</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\omero\Documents\AcademicMap\AcademicMap\AcademicMap\images\logo.scale-100.png">
       <PackagePath>images\logo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2013-07-21T18:19:32.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\AcademicMap\AcademicMap\images\smalllogo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\omero\Documents\AcademicMap\AcademicMap\AcademicMap\images\smalllogo.scale-100.png">
       <PackagePath>images\smalllogo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2013-07-21T18:19:32.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\AcademicMap\AcademicMap\images\splashscreen.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\omero\Documents\AcademicMap\AcademicMap\AcademicMap\images\splashscreen.scale-100.png">
       <PackagePath>images\splashscreen.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2013-07-21T18:19:32.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\AcademicMap\AcademicMap\images\storelogo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\omero\Documents\AcademicMap\AcademicMap\AcademicMap\images\storelogo.scale-100.png">
       <PackagePath>images\storelogo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2013-07-21T18:19:32.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\AcademicMap\AcademicMap\js\default.js">
+    <AppxPackagedFile Include="C:\Users\omero\Documents\AcademicMap\AcademicMap\AcademicMap\js\default.js">
       <PackagePath>js\default.js</PackagePath>
       <Modified>2013-07-21T18:19:32.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\AcademicMap\AcademicMap\css\default.css">
-      <PackagePath>css\default.css</PackagePath>
-      <Modified>2013-07-21T18:19:32.000</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\AcademicMap\AcademicMap\bin\Debug\ReverseMap\resources.pri">
+    <AppxPackagedFile Include="C:\Users\omero\Documents\AcademicMap\AcademicMap\AcademicMap\bin\Debug\ReverseMap\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2017-12-03T15:34:49.197</Modified>
+      <Modified>2017-12-03T15:45:18.617</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

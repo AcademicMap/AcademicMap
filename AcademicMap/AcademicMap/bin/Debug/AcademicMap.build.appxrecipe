@@ -8,38 +8,41 @@
     <PackageIdentityName>ec8dc6ca-936c-4283-a349-96732fb5e55e</PackageIdentityName>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="C:\AcademicMap\AcademicMap\bin\Debug\AppxManifest.xml">
+    <AppXManifest Include="C:\Users\omero\Documents\AcademicMap\AcademicMap\AcademicMap\bin\Debug\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\AcademicMap\AcademicMap\default.html">
+    <AppxPackagedFile Include="C:\Users\omero\Documents\AcademicMap\AcademicMap\AcademicMap\css\SearchBox.css">
+      <PackagePath>css\SearchBox.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\omero\Documents\AcademicMap\AcademicMap\AcademicMap\css\default.css">
+      <PackagePath>css\default.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\omero\Documents\AcademicMap\AcademicMap\AcademicMap\default.html">
       <PackagePath>default.html</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\AcademicMap\AcademicMap\images\logo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\omero\Documents\AcademicMap\AcademicMap\AcademicMap\images\logo.scale-100.png">
       <PackagePath>images\logo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\AcademicMap\AcademicMap\images\smalllogo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\omero\Documents\AcademicMap\AcademicMap\AcademicMap\images\smalllogo.scale-100.png">
       <PackagePath>images\smalllogo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\AcademicMap\AcademicMap\images\splashscreen.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\omero\Documents\AcademicMap\AcademicMap\AcademicMap\images\splashscreen.scale-100.png">
       <PackagePath>images\splashscreen.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\AcademicMap\AcademicMap\images\storelogo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\omero\Documents\AcademicMap\AcademicMap\AcademicMap\images\storelogo.scale-100.png">
       <PackagePath>images\storelogo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\AcademicMap\AcademicMap\js\default.js">
+    <AppxPackagedFile Include="C:\Users\omero\Documents\AcademicMap\AcademicMap\AcademicMap\js\default.js">
       <PackagePath>js\default.js</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\AcademicMap\AcademicMap\css\default.css">
-      <PackagePath>css\default.css</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\AcademicMap\AcademicMap\bin\Debug\ReverseMap\resources.pri">
+    <AppxPackagedFile Include="C:\Users\omero\Documents\AcademicMap\AcademicMap\AcademicMap\bin\Debug\ReverseMap\resources.pri">
       <PackagePath>resources.pri</PackagePath>
     </AppxPackagedFile>
   </ItemGroup>
